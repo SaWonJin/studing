@@ -2,7 +2,7 @@ package backjun;
 
 import java.util.Scanner;
 
-public class back10 {
+public class back010 {
 
 	public static void main(String[] args) {
 
